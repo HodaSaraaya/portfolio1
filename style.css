@@ -844,7 +844,7 @@ section.active{
     align-items: flex-start;    /* moves them to the left */
     text-align: left;       
     flex-direction: column;
-    background: rgb(170, 108, 57,0.5);
+    background: rgba(43, 188, 178, 0.5);
     color: #fff;
     opacity: 0;
     transition: opacity 0.30s ;
